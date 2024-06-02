@@ -30,7 +30,8 @@ Start the server by running:
 node implementation_task.js
 ```
 
-The server will be running at `http://localhost:9000/youtube`.
+The server will be running at `http://localhost:9000`.
+## Use the endpoint /youtube to fetch data
 
 ## Usage
 
